@@ -6,8 +6,5 @@
 #   21bottles of beer on the wall21 bottles of beer on the wall. 21 bottles of beer on the wall
 #   21 bottles of beer on the wall.21 bottles of beer on the wall
 #   The number 10e is weird, but not the numbers 1e0 and 50.
-#
-# not covered cases:
-#   21e+ is another weird number, but it's not covered, will be skipped as an int.
 
 
